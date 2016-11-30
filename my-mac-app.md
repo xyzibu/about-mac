@@ -21,6 +21,16 @@
 | Opus Domini                  | 日程管理                | 免费   |
 | Fliqlo                       | 时钟屏保                | 免费   |
 | Movist                       | 视频播放器               | 收费   |
+| f.lux                        | 自动调节显示器色温           | 免费   |
+| iTranslate                   | 位于状态栏的词典            | 免费   |
+| 滴滴清单                         | 任务管理                | 内购   |
+| XtraFinder                   | Finder增强工具          | 免费   |
+| Übersicht                    | 桌面widget工具          | 开源   |
+| Hammerspoon                  | 可执行lua脚本的自动化工具      | 开源   |
+| M3 Data Recovery             | 数据还原软件              | 限免   |
+| Proxifier                    | Socks5客户端           | 收费   |
+|                              |                     |      |
+|                              |                     |      |
 
 
 
