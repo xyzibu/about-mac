@@ -38,10 +38,10 @@
 | imSQLFormatter               | sql代码格式化工具                               | 限免   |
 | imXMLFormatter               | xml代码格式化工具                               | 限免   |
 | imEDUltimate                 | a bash64、hash、encrypt and decrypt tool ultimate | 限免   |
-|                              |                                          |      |
-|                              |                                          |      |
-|                              |                                          |      |
-|                              |                                          |      |
+| Kalaidoscope                 | 文件比较工具                                   | 收费   |
+| RightFont                    | 字体管理                                     | 收费   |
+| CodeRunner                   | 编程                                       | 收费   |
+| Paw                          | HTTP/REST服务测试工具                          | 收费   |
 |                              |                                          |      |
 |                              |                                          |      |
 |                              |                                          |      |
@@ -60,4 +60,10 @@
 | ---------- | ---------- | ---- |
 | aText      | 自动文本生成工具   | 收费   |
 | XtraFinder | Finder增强工具 | 免费   |
+| Go2Shell   | 在当前目录打开终端  | 免费   |
+|            |            |      |
+|            |            |      |
+|            |            |      |
+|            |            |      |
+|            |            |      |
 |            |            |      |
