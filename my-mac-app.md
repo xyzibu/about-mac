@@ -42,6 +42,26 @@
 | RightFont                    | 字体管理                                     | 收费   |
 | CodeRunner                   | 编程                                       | 收费   |
 | Paw                          | HTTP/REST服务测试工具                          | 收费   |
+| OmniPlan                     | 项目管理流程软件                                 | 收费   |
+| Navicat Premium              | 数据库管理软件                                  | 收费   |
+| Keka                         | 压缩/解压缩软件                                 | 免费   |
+| iMuscle                      | 3D肌肉训练健身软件                               | 收费   |
+| PopClip                      |                                          | 收费   |
+| Essential Anatomy            | 3D解剖图                                    | 收费   |
+| HazeOver                     | 高亮正在使用的软件                                | 收费   |
+| PDF to Keynote Converter     | 将 PDF 文档转换为 Keynote 文档                   | 限免   |
+| CleanMyMac                   | 系统清理                                     | 收费   |
+| PhoneClean                   | 清理iphone                                 | 收费   |
+| Insomniax                    | 管理mac开机和睡眠                               | 开源   |
+| Arcsoft Photo+               | 图片浏览                                     | 收费   |
+| iSmartPhoto                  | 图片浏览                                     | 收费   |
+| DaisyDisk                    | 查看磁盘使用情况                                 | 收费   |
+|                              |                                          |      |
+|                              |                                          |      |
+|                              |                                          |      |
+|                              |                                          |      |
+|                              |                                          |      |
+|                              |                                          |      |
 |                              |                                          |      |
 |                              |                                          |      |
 |                              |                                          |      |
