@@ -56,11 +56,11 @@
 | Arcsoft Photo+               | 图片浏览                                     | 收费   |
 | iSmartPhoto                  | 图片浏览                                     | 收费   |
 | DaisyDisk                    | 查看磁盘使用情况                                 | 收费   |
-|                              |                                          |      |
-|                              |                                          |      |
-|                              |                                          |      |
-|                              |                                          |      |
-|                              |                                          |      |
+| Memory Clean                 | 内存监控                                     | 免费   |
+| Blotter                      | 炫酷的桌面日历                                  | 收费   |
+| Itsycal                      | 菜单栏日历                                    | 开源   |
+| Video to GIF Maker           | 将视频转换为 GIF                               | 限免   |
+| Snip                         | 截图工具                                     | 免费   |
 |                              |                                          |      |
 |                              |                                          |      |
 |                              |                                          |      |
@@ -81,7 +81,7 @@
 | aText      | 自动文本生成工具   | 收费   |
 | XtraFinder | Finder增强工具 | 免费   |
 | Go2Shell   | 在当前目录打开终端  | 免费   |
-|            |            |      |
+| cDock      | 自定义dock样式  | 开源   |
 |            |            |      |
 |            |            |      |
 |            |            |      |
