@@ -61,9 +61,9 @@
 | Itsycal                      | 菜单栏日历                                    | 开源   |
 | Video to GIF Maker           | 将视频转换为 GIF                               | 限免   |
 | Snip                         | 截图工具                                     | 免费   |
-|                              |                                          |      |
-|                              |                                          |      |
-|                              |                                          |      |
+| Document Builder             | 将 .docx 文档进行合并                           | 限免   |
+| Recordam                     | 一键录音工具                                   | 限免   |
+| PowerCocoa                   | 防止系统休眠                                   | 限免   |
 |                              |                                          |      |
 |                              |                                          |      |
 |                              |                                          |      |
