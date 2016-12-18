@@ -64,7 +64,7 @@
 | Document Builder             | 将 .docx 文档进行合并                           | 限免   |
 | Recordam                     | 一键录音工具                                   | 限免   |
 | PowerCocoa                   | 防止系统休眠                                   | 限免   |
-|                              |                                          |      |
+| ScrollStickies               | 滚动便签                                     | 限免   |
 |                              |                                          |      |
 |                              |                                          |      |
 |                              |                                          |      |
